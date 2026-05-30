@@ -305,8 +305,6 @@ If you know a useful GEO tool, case study, research paper, prompt, or resource, 
 # Related Projects
 
 * AIDeckly — Discover AI tools and growth opportunities.
-* SubmitDeckly — Promote your AI product.
-* ScoutDeckly — AI-powered growth intelligence.
 
 ---
 
