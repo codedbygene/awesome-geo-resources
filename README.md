@@ -1,5 +1,4 @@
 
-![Uploading iShot_2026-05-30_下午3.07.02.png…]()
 # Awesome GEO Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of the best Generative Engine Optimization (GEO) resources, tools, case studies, prompts, research papers, and examples.
